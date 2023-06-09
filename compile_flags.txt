@@ -1,0 +1,5 @@
+-Wall
+-std=c++17
+-O3
+-march=skylake
+-DNDEBUG
